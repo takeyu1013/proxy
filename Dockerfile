@@ -1,4 +1,4 @@
-FROM alpine AS build
+FROM alpine
 
 ENV NGINX_VERSION 1.18.0
 
